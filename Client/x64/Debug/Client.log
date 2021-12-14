@@ -1,3 +1,0 @@
-﻿  Client.cpp
-C:\Users\ignat\Desktop\os\Client\Client.cpp(87): warning C4717: ClientHandler: рекурсия на всех путях выполнения, функция вызовет переполнение стека
-  Client.vcxproj -> C:\Users\ignat\Desktop\os\Client\x64\Debug\Client.exe
