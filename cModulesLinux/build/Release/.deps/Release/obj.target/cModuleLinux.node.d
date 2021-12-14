@@ -1,0 +1,1 @@
+cmd_Release/obj.target/cModuleLinux.node := g++ -o Release/obj.target/cModuleLinux.node -shared -pthread -rdynamic -m64  -Wl,-soname=cModuleLinux.node -Wl,--start-group Release/obj.target/cModuleLinux/cModuleLinux.o -Wl,--end-group 
